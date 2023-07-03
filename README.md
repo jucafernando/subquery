@@ -1,7 +1,7 @@
 # subquery
 Subquery é nada mais, nada menos do que uma consulta sobre outra consulta. Podemos utilizar subquerys para otimizar as querys,
 dando mais qualidade a elas. Quando digo qualidade, digo na facilidade de leitura das querys, na qualidade de tempo para retornar 
-essa query e dar mais dinamica ás bases de dados, pois como as bases de dados sobrem atualizações frequentes, podemos utilizar de 
+essa query e dar mais dinamica ás bases de dados, pois como as bases de dados sofrem atualizações frequentes, podemos utilizar de 
 subquerys para evitar com que tenhamos que alterar toda uma query após a base de dados sobrer atualizações. Como no exemplo abaixo:
 
 
