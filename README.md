@@ -8,7 +8,7 @@ subquerys para evitar com que tenhamos que alterar toda uma query após a base d
 ![image](https://github.com/jucafernando/subquery/assets/21082881/b0252a2a-9e36-4553-9617-df3546d389c6)
 
 Na imagem acima, fiz uma query para verificar o produto com menor preço. Mas, eu quero saber todos os detalhes desse produto e não 
-apenas o preço dele. Para resolver esse problema, utulizei uma subquery para verificar todos os detalhes do prosuto com menor preço:
+apenas o preço dele. Para resolver esse problema, utulizei uma subquery para verificar todos os detalhes do produto com menor preço:
 
 
 ![image](https://github.com/jucafernando/subquery/assets/21082881/81e6f516-a52c-4d60-b6cf-91433394711b)
